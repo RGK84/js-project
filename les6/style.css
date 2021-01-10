@@ -1,0 +1,15 @@
+#basket-container, #catalog {
+    width: 775px;
+    padding: 25px 50px;
+    margin: 0 auto;
+}
+
+p {
+    text-align: center;
+}
+
+.catalog__item {
+    margin: 15px 0;
+    background-color: #e1e1e1;
+    line-height: 30px;
+}
